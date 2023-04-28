@@ -1,6 +1,6 @@
 ### Hello, i'm Matheus Alexander, a computer engineering student and backend developer
 
-- 🌱 I’m currently learning Data Analysis with Python
+- 🌱 I’m currently learning pySpark
 
 <div allign="center">
   <a href="https://github.com/Helmont1">
